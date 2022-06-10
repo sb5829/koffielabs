@@ -43,6 +43,7 @@ There are two ways you can utilize the APIs created:
 * Go to the FastApi docs UI http://127.0.0.1:8000/docs#/ and interact with the APIs there
 * Enter the request data as defined in the FastApi docs
 * IMPORTANT: if it's your first time running, please call the api "create_table" to create the database
+* Note: please ignore all the extra files that github generated
 
 ## Questions/Concerns
 
